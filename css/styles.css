@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap');
+
+html
+    {
+        box-sizing: border-box;
+    }
+
+body    
+    {
+        margin: 0;
+        height: 100vh;
+        background: #424242
+    }
+    
+.squeak-section
+    {
+        height: 100vh;
+    }
+#button
+    {
+        background: transparent;
+        border: none;
+    }
